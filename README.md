@@ -2,4 +2,4 @@
 
 moduli necessari:
 
-**pip install ursina
+**pip install ursina**
