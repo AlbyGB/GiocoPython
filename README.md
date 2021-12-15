@@ -3,3 +3,4 @@
 moduli necessari:
 
 **pip install ursina**
+**pip install keyboard**
